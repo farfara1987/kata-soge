@@ -36,7 +36,7 @@ public class KataApplication {
 		account.withdrawal(secondeWithdraw);
 
 
-		// U.S 2 : check my operations
+		// U.S 3 : check my operations
 		System.out.println(account.toString());
 
 	}
